@@ -1,5 +1,6 @@
 # **Entity and Relationship Identification**
 
+![Database ER Diagram](https://github.com/SirrPascal/alx-airbnb-database/blob/main/ERD/Database%20ER%20diagram%20(crow's%20foot).jpeg?raw=true)
 ## Entities and Attributes**
 
 ### **User**
