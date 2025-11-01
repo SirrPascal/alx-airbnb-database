@@ -1,7 +1,7 @@
 # **Entity and Relationship Identification**
 
 ![Database ER Diagram](https://github.com/SirrPascal/alx-airbnb-database/blob/main/ERD/Database%20ER%20diagram%20(crow's%20foot).jpeg?raw=true)
-## Entities and Attributes**
+## Entities and Attributes
 
 ### **User**
 - **Primary Key:** `user_id`
@@ -46,7 +46,7 @@
 
 ---
 
-##  Relationships Between Entities**
+##  **Relationships Between Entities**
 
 ### **User – Property**
 - **Type:** One-to-Many (1:N)
@@ -85,7 +85,7 @@
 
 ---
 
-## Summary**
+## **Summary**
 - The database represents a **property rental platform**.  
 - The **User** entity is central, acting as both **guest** and **host**.  
 - **Property**, **Booking**, **Payment**, **Review**, and **Message** entities are interconnected through well-defined one-to-many and one-to-one relationships.  
