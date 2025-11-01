@@ -86,7 +86,6 @@
 ---
 
 ## **Summary**
-- The database represents a **property rental platform**.  
-- The **User** entity is central, acting as both **guest** and **host**.  
-- **Property**, **Booking**, **Payment**, **Review**, and **Message** entities are interconnected through well-defined one-to-many and one-to-one relationships.  
-- This structure maintains **referential integrity**, supports **scalability**, and reflects a **real-world accommodation system**.
+- The database represents a property rental platform.  
+- The **User** entity is central, acting as both guest and host.  
+- **Property**, **Booking**, **Payment**, **Review**, and **Message** entities are connected through well-defined one-to-many and one-to-one relationships.  
