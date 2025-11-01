@@ -5,8 +5,9 @@
 ## Objective
 Define the Airbnb-style relational database schema using SQL `CREATE TABLE` statements with proper constraints and indexes.
 
-## Repository  
+ 
 **Directory:** `database-script-0x01`  
+
 **Files:**
 - `schema.sql` — SQL definitions for tables and constraints
 - `README.md` — Documentation and schema overview
