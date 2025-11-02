@@ -22,6 +22,7 @@ SELECT
 FROM properties
 LEFT JOIN reviews 
     ON properties.property_id = reviews.property_id;
+ORDER BY properties.property_id;
 
 
 -- 3. Write a query using a FULL OUTER JOIN to retrieve all users and all bookings, even if the user has no booking or a booking is not linked to a user.
