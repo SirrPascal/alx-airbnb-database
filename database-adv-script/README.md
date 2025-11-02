@@ -40,3 +40,15 @@ Goal: Retrieve users who have made more than 3 bookings.
 - The subquery counts how many bookings belong to the current user.
 
 - The outer query returns users whose booking count exceeds 3.
+  
+### Window Function Query
+
+**Goal:** Rank properties based on the total number of bookings received.
+
+**Explanation:**
+
+- COUNT(*) counts bookings per property.
+
+- RANK() assigns ranks based on booking totals.
+
+- The OVER clause defines the ranking window (in this case, over all rows).
